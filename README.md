@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @Daff1289
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 📫 Wanna Talk  To Me? https://wa.me/6281295532922
-
-<!---
-Daff1289/Daff1289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Talk Me In Whatsapp https://wa.me/6281295532922
+- Follow My Instagram https://instagram.com/egarpcn
+- Subscribe My Youtube Channel https://www.youtube.com/@DaffBotz
+- TERIMAKASIH ATAS KUNJUNGAN NYA, SAYA DAFFBOTZ SALAM KENAL
