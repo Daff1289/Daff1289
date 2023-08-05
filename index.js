@@ -1,8 +1,8 @@
 /*
-› Create By Haikal
-› Base Ori Haikal
+› Create By DaffBotz
+› Base Ori DaffBotz
 
-🌷 KALAU MAU RENAME TARO CREDITS GUA : HW MODS WA☆ */
+🌷 KALAU MAU RENAME TARO CREDITS GUA : DaffBotz XD
 
 require('./dzff')
 const { default: makeWASocket, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, getAggregateVotesInPollMessage, proto } = global.baileys
